@@ -1,0 +1,1 @@
+ALTER TABLE `lumio_messages` ADD `session_id` text DEFAULT 'legacy' NOT NULL;
